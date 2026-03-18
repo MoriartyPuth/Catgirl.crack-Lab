@@ -1,6 +1,9 @@
-<p align="center">
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/c9c1fdd0-b9aa-40ba-9c99-e0eb7acd18d0" />
-</p>
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/36f7d125-562c-4b97-9330-0110d61aa59d" />
+
+
+# Catgirl Lab
+
+This README provides a concise overview of the Catgirl Crackme challenge, a beginner-level .NET reverse engineering task.
 
 ## 🖥️ Machine Specifications
 
